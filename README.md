@@ -27,4 +27,4 @@ Major sustainability metrics provided by the Sustainability Grafana Dashboard:
 
 ## Sustainability Dashboard Sample
 This is an example of the Sustainability Grafana Dashboard to visualize the sustainability metrics of migrating workloads from x86 to LinuxONE
-![example](doc/sustainability-dashboard.png)
+![example](doc/dashboard-sample.png)
